@@ -32,4 +32,4 @@ jobs:
           git config --global user.email 'wjdgh0727@gmail.com'
           
           git commit -am "Hop, hop, hop."
-          git push -f
+          git push -f origin worker 
