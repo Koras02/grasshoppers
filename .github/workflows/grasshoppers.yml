@@ -28,7 +28,7 @@ jobs:
           cat grass.txt ;
       - name: two friends hop, hop, hop.
         run: |
-         git config --global user.name 'kobiad_ros'
+         git config --global user.name 'Koras02'
           git config --global user.email 'wjdgh0727@gmail.com'
             git pull
           git commit -am "Hop, hop, hop."
